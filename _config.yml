@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Canterbury Food Bank
+short_title: Canterbury Food Bank
+description: A community project and registered charity providing emergency food parcels to individuals and families in short term financial crisis across the Canterbury District (Canterbury, Whitstable, Herne Bay and surrounding villages).
 baseurl:
 permalink: "/:path/"
 defaults:
@@ -14,14 +14,11 @@ defaults:
     values:
       layout: post
 collections:
-  people:
-    output: true
-    permalink: "/about/:path/"
   posts:
     output: true
-  projects:
+  give:
     output: true
-    permalink: "/projects/:path/"
+    permalink: "/give/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
