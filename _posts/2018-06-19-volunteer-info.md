@@ -1,6 +1,6 @@
 ---
 title: Volunteering infomation event
-date: 
+date: 2018-05-13 22:00:00 +0000
 related_posts: []
 sub_heading: Want to find out more about our volunteering vacancies? We are holding
   an informal information session...
