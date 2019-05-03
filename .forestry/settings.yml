@@ -6,9 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Content
-- type: document
-  path: need-food
-  label: Need food?
 - type: jekyll-posts
   label: Posts
   create: all
