@@ -4,6 +4,7 @@ layout: give
 description: Donate or Volunteer for Canterbury Food Bank
 publish_date: '2017-11-01T03:00:00.000+00:00'
 textline: Placeholder content
+heading: Hello! Test
 menu:
   navigation:
     identifier: _give
@@ -15,3 +16,5 @@ menu:
 
 ---
 Hi, this is some content that you can replace later.
+
+:)
