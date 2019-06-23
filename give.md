@@ -2,7 +2,8 @@
 title: Give
 layout: give
 description: Donate or Volunteer for Canterbury Food Bank
-publish_date: 2017-11-01T03:00:00.000+00:00
+publish_date: '2017-11-01T03:00:00.000+00:00'
+textline: Placeholder content
 menu:
   navigation:
     identifier: _give
