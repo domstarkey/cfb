@@ -14,3 +14,4 @@ menu:
     weight: 2
 
 ---
+Hi, this is some content that you can replace later.
